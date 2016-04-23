@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
     sp.dependency 'GCDObjC'
     sp.dependency 'FLKAutoLayout','0.1.1'
 
-    ss.dependency 'FontIcon', :git => 'https://github.com/ForrestAlfred/FontIcon', :branch => 'master'
+    sp.dependency 'FontIcon', :git => 'https://github.com/ForrestAlfred/FontIcon', :branch => 'master'
 
-    ss.prefix_header_contents = '#import "swift-bridge.h"'
+    sp.prefix_header_contents = '#import "swift-bridge.h"'
   end
 end
