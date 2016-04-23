@@ -24,8 +24,6 @@ Pod::Spec.new do |s|
     sp.dependency 'AFNetworking'
     sp.dependency 'GCDObjC'
     sp.dependency 'FLKAutoLayout','0.1.1'
-    sp.dependency 'FontIcon', :git => 'https://github.com/ForrestAlfred/FontIcon'
-    sp.dependency 'MBProgressHUD', :git => 'https://github.com/jdg/MBProgressHUD'
     
     sp.prefix_header_contents = '#import "swift-bridge.h"'
   end
