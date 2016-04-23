@@ -27,6 +27,6 @@ Pod::Spec.new do |s|
 
     ss.dependency 'FontIcon', :git => 'https://github.com/ForrestAlfred/FontIcon', :branch => 'master'
 
-    sp.prefix_header_contents = '#import "swift-bridge.h"'
+    ss.prefix_header_contents = '#import "swift-bridge.h"'
   end
 end
