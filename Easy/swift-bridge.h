@@ -7,7 +7,7 @@
 //
 
 #import "Action.h"
-#import "Scene.h"
+#import "EZScene.h"
 #import "Model.h"
 #import "SceneModel.h"
 #import "SceneCollectionView.h"

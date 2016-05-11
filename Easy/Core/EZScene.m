@@ -1,19 +1,19 @@
 //
-//  Scene.m
+//  EZScene.m
 //  fastSign
 //
 //  Created by EasyIOS on 14-4-11.
 //  Copyright (c) 2014年 zhuchao. All rights reserved.
 //
 
-#import "Scene.h"
+#import "EZScene.h"
 
 
-@interface Scene ()
+@interface EZScene ()
 
 @end
 
-@implementation Scene
+@implementation EZScene
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {

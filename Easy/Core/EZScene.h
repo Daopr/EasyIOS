@@ -1,5 +1,5 @@
 //
-//  Scene.h
+//  EZScene.h
 //  fastSign
 //
 //  Created by EasyIOS on 14-4-11.
@@ -30,8 +30,8 @@ typedef enum
     INSET_TOP_BOTTOM            =3,
 } EzAlignInset;
 #import "UIViewController+HUD.h"
-@interface Scene : UIViewController
-@property(nonatomic,retain)Scene *parentScene;
+@interface EZScene : UIViewController
+@property(nonatomic,retain)EZScene *parentScene;
 
 - (void)showBarButton:(EzNavigationBar)position title:(NSString *)name fontColor:(UIColor *)color;
 - (void)showBarButton:(EzNavigationBar)position imageName:(NSString *)imageName;
