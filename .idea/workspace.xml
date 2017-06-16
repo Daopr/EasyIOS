@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57980f34-d1f3-4b7b-98c3-cc4994d6d7bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EasyIOS.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Easy/Core/SceneModel.h" afterPath="$PROJECT_DIR$/Easy/Core/SceneModel.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Easy/Lib/EasyKit.h" afterPath="$PROJECT_DIR$/Easy/Lib/EasyKit.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EasyIOS.podspec" afterPath="$PROJECT_DIR$/EasyIOS.podspec" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/RACGestureRecognizerActionHandler.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/RACGestureRecognizerActionHandler.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.h" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.h" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIView+EzGesture.h" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIView+EzGesture.h" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +32,8 @@
       <file leaf-file-name="EasyIOS.podspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EasyIOS.podspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -134,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497602221148</updated>
-      <workItem from="1497602224217" duration="761000" />
+      <workItem from="1497602224217" duration="1687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="761000" />
+    <option name="totallyTimeSpent" value="1687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -185,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EasyIOS.podspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding />
         </state>
       </provider>

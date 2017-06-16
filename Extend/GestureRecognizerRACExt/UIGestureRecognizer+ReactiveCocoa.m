@@ -1,5 +1,5 @@
 //
-//  UIGestureRecognizer+ReactiveObjC.m
+//  UIGestureRecognizer+ReactiveCocoa.m
 //  GestureRecognizerRACExt
 //
 //  Created by kaiinui on 2014/09/07.
@@ -12,9 +12,9 @@
 #import <ReactiveObjC.h>
 #import "RACGestureRecognizerActionHandler.h"
 
-#import "UIGestureRecognizer+ReactiveObjCProtected.h"
+#import "UIGestureRecognizer+ReactiveCocoaProtected.h"
 
-@implementation UIGestureRecognizer (ReactiveObjC)
+@implementation UIGestureRecognizer (ReactiveCocoa)
 
 # pragma mark - Public
 

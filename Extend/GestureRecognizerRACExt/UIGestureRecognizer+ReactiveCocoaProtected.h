@@ -1,5 +1,5 @@
 //
-//  UIGestureRecognizer+ReactiveObjCProtected.h
+//  UIGestureRecognizer+ReactiveCocoaProtected.h
 //  GestureRecognizerRACExt
 //
 //  Created by kaiinui on 2014/09/07.
@@ -11,7 +11,7 @@
 @class RACSubject;
 @class RACGestureRecognizerActionHandler;
 
-@interface UIGestureRecognizer (ReactiveObjCProtected)
+@interface UIGestureRecognizer (ReactiveCocoaProtected)
 
 /**
  private: To retain UIGestureDelegate. The GestureRecognizer's delegate will be
