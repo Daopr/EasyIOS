@@ -1,5 +1,5 @@
 //
-//  UIGestureRecognizer+ReactiveCocoa.h
+//  UIGestureRecognizer+ReactiveObjC.h
 //  GestureRecognizerRACExt
 //
 //  Created by kaiinui on 2014/09/07.
@@ -10,7 +10,7 @@
 
 @class RACSignal;
 
-@interface UIGestureRecognizer (ReactiveCocoa) // TODO: To make them private, separate them into a category.
+@interface UIGestureRecognizer (ReactiveObjC) // TODO: To make them private, separate them into a category.
 
 # pragma mark - Instantiate
 

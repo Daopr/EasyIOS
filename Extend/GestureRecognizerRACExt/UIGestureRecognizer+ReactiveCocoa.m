@@ -1,20 +1,20 @@
 //
-//  UIGestureRecognizer+ReactiveCocoa.m
+//  UIGestureRecognizer+ReactiveObjC.m
 //  GestureRecognizerRACExt
 //
 //  Created by kaiinui on 2014/09/07.
 //  Copyright (c) 2014年 kaiinui. All rights reserved.
 //
 
-#import "UIGestureRecognizer+ReactiveCocoa.h"
+#import "UIGestureRecognizer+ReactiveObjC.h"
 
 #import <objc/runtime.h>
-#import <ReactiveCocoa.h>
+#import <ReactiveObjC.h>
 #import "RACGestureRecognizerActionHandler.h"
 
-#import "UIGestureRecognizer+ReactiveCocoaProtected.h"
+#import "UIGestureRecognizer+ReactiveObjCProtected.h"
 
-@implementation UIGestureRecognizer (ReactiveCocoa)
+@implementation UIGestureRecognizer (ReactiveObjC)
 
 # pragma mark - Public
 

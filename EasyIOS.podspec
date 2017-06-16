@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = "EasyIOS"
-  s.version               = "2.2.3"
-  s.summary               = "EasyIOS is a MVVM frameWork base on AFNetworking and ReactiveCocoa"
+  s.version               = "12.2.5"
+  s.summary               = "EasyIOS is a MVVM frameWork base on AFNetworking and ReactiveObjC"
   s.homepage              = "http://easyios.iosx.me"
   s.social_media_url      = "http://www.iosx.me"
   s.platform     = :ios,'6.0'
