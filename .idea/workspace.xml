@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57980f34-d1f3-4b7b-98c3-cc4994d6d7bb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EasyIOS.podspec" afterPath="$PROJECT_DIR$/EasyIOS.podspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/RACGestureRecognizerActionHandler.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/RACGestureRecognizerActionHandler.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.h" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoa.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.h" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.m" afterPath="$PROJECT_DIR$/Extend/GestureRecognizerRACExt/UIGestureRecognizer+ReactiveCocoaProtected.m" />
-    </list>
+    <list default="true" id="57980f34-d1f3-4b7b-98c3-cc4994d6d7bb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +39,19 @@
       <find>R</find>
       <find>Reac</find>
       <find>React</find>
-      <find>Reactive</find>
       <find>ReactiveC</find>
       <find>ReactiveCo</find>
       <find>ReactiveCoc</find>
       <find>ReactiveCocoa.h</find>
       <find>ReactiveCocoa.</find>
       <find>ReactiveCocoa</find>
+      <find>ReactiveCoco</find>
+      <find>Reactive</find>
+      <find>ReactiveOb</find>
+      <find>ReactiveObjc</find>
+      <find>ReactiveObj</find>
+      <find>ReactiveObjC</find>
+      <find>+ReactiveObjC</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -126,12 +125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497602221148</updated>
-      <workItem from="1497602224217" duration="1687000" />
+      <workItem from="1497602224217" duration="3572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1687000" />
+    <option name="totallyTimeSpent" value="3572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />

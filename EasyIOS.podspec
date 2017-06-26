@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "EasyIOS"
-  s.version               = "12.2.6"
+  s.version               = "12.2.7"	
   s.summary               = "EasyIOS is a MVVM frameWork base on AFNetworking and ReactiveCocoa"
   s.homepage              = "http://easyios.iosx.me"
   s.social_media_url      = "http://www.iosx.me"

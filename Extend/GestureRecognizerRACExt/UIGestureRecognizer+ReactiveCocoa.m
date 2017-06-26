@@ -6,7 +6,7 @@
 //  Copyright (c) 2014年 kaiinui. All rights reserved.
 //
 
-#import "UIGestureRecognizer+ReactiveObjC.h"
+#import "UIGestureRecognizer+ReactiveCocoa.h"
 
 #import <objc/runtime.h>
 #import <ReactiveObjC.h>

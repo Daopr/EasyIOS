@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "UIGestureRecognizer+ReactiveObjC.h"
+#import "UIGestureRecognizer+ReactiveCocoa.h"
 @interface UIView (EzGesture)
 
 -(void)whenTapped:(void (^)(void))block;
